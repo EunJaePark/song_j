@@ -73,7 +73,11 @@
   #app {
     background-color: #fff;
   }
+  #app > * {
+    padding: 0 20px;
+  }
   .detail_component {
+    margin: 0 auto;
     padding: 30px 0;
     box-shadow: none;
   }
