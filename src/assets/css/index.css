@@ -76,6 +76,10 @@
   #app > * {
     padding: 0 20px;
   }
+  .main_component > .goBtn {
+    top: 40%;
+    transform: translate(-50%, -40%);
+  }
   .detail_component {
     margin: 0 auto;
     padding: 30px 0;
